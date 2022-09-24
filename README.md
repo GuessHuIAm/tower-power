@@ -19,6 +19,10 @@ The carrot shoots mini carrots as bullets against the enemies.
 
 The potato partition acts as a wall against enemies.
 
+The iceberg lettuce freezes enemies.
+
+The bomb-a-granate creates an explosion that damages all enemies in an area.
+
 Everytime an enemy reaches the left side of the grid, your lives will decrease by 1. If your lives decrease to 0, you lose the game. If you successfully kill all the enemies, you win the game.
 
 
